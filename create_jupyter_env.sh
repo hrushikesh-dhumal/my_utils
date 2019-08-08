@@ -26,7 +26,7 @@ elif [[ "$OSTYPE" == "msys" ]]; then
         OS="windows"
 elif [[ "$OSTYPE" == "freebsd"* ]]; then
         OS="linux"
-# else
+# else  
         # Unknown.
 fi
 
